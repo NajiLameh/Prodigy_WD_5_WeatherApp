@@ -1,6 +1,6 @@
 # Fifth Task in my one month internship at Prodigy InfoTech.
 
-This project is a responsive weather application that fetch data about the temperature, humidity and Wind Speed in many cities around the world using openWeatherMap API.
+This project is a responsive weather application that fetch data about the temperature, humidity and wind speed in many cities around the world using openWeatherMap API.
 
 ## How to Set Up and Run This Project
 
@@ -10,7 +10,7 @@ Follow these steps to set up and run the Weather App project on your local machi
    
 1. **Create an account** on openweathermap: https://openweathermap.org/
    
-2. **Navigate to the API section** and subscribe in the Current Weather Data service.
+2. **Navigate to the API section** and subscribe to the Current Weather Data service.
    
 3. **Navigate to My Services section** and copy the API Key.
 
@@ -32,6 +32,7 @@ Follow these steps to set up and run the Weather App project on your local machi
    ```bash
    npm install
    ```
+
 9. **Replace the API Key** in the url variable with your API Key.
 
 10. **Start the project**:
